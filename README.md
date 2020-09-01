@@ -2,6 +2,10 @@
 
 [Atividade 1 - Imagens e modelos de cores](./aula01)
 
+# Nomes
+# Diego Saragoza da Silva
+# Gabriel de Castro Ribeiro
+
 ## Ferramentas online
 
 
